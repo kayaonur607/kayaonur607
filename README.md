@@ -9,7 +9,7 @@
 # Contact
 
 
-[![Github](https://img.shields.io/badge/Github-kayaonur607-green?style=for-the-badge&logo=github)](https://github.com/kayaonur607)
+[![GMAİL](https://img.shields.io/badge/Gmail-kayaonur607@gmail.com-green?style=for-the-badge&logo=gmail)](https://www.gmail.com)
 [![TWİTTER](https://img.shields.io/badge/TWITTER-kayaonur607-blue?style=for-the-badge&logo=twitter)](https://twitter.com/kayaonur607)
 [![Instagram](https://img.shields.io/badge/Instagram-kayaonur607-purple?style=for-the-badge&logo=instagram)](https://instagram.com/kayaonur607)
 
