@@ -13,9 +13,10 @@
 [![TWİTTER](https://img.shields.io/badge/TWITTER-kayaonur607-blue?style=for-the-badge&logo=twitter)](https://twitter.com/kayaonur607)
 [![Instagram](https://img.shields.io/badge/Instagram-kayaonur607-purple?style=for-the-badge&logo=instagram)](https://instagram.com/kayaonur607)
 
-![Onur Kaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayaonur607&show_icons=true&theme=aura)
+![Onur Kaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayaonur607&show_icons=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayaonur607&langs_count=5&theme=aura)](https://github.com/kayaonur607/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayaonur607&langs_count=5&theme=midnight-purple)](https://github.com/kayaonur607/github-readme-stats)
+
 
 
 <!---
