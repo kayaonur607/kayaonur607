@@ -5,20 +5,17 @@
 
 🌱 I’m currently learning java, C Sharp, Python, MSQL...
 
-
 # Contact
-
 
 [![GMAİL](https://img.shields.io/badge/Gmail-kayaonur607@gmail.com-green?style=for-the-badge&logo=gmail)](https://www.gmail.com)
 [![TWİTTER](https://img.shields.io/badge/TWITTER-kayaonur607-blue?style=for-the-badge&logo=twitter)](https://twitter.com/kayaonur607)
 [![Instagram](https://img.shields.io/badge/Instagram-kayaonur607-purple?style=for-the-badge&logo=instagram)](https://instagram.com/kayaonur607)
 
+# Statistics
+
 ![Onur Kaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayaonur607&show_icons=true&theme=midnight-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayaonur607&langs_count=5&theme=midnight-purple)](https://github.com/kayaonur607/github-readme-stats)
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kayaonur607&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
 
 
 <!---
