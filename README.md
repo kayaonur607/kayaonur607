@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Onur
+- 👋 Hi, I’m Onur I Am Studying Management Information Systems at Mustafa Kemal University
 - 🌱 I’m currently learning java, C Sharp, Python, MSQL...
 - 📫 How to reach me kayaonur607@gmail.com
 
