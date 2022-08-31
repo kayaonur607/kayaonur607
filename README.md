@@ -17,6 +17,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayaonur607&langs_count=5&theme=midnight-purple)](https://github.com/kayaonur607/github-readme-stats)
 
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=kayaonur607&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
 
 
 <!---
