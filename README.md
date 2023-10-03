@@ -1,9 +1,4 @@
 
-# About Me
-
-👋 Hi, I’m Onur I Am Studying Management Information Systems at Mustafa Kemal University 
-
-🌱 I’m currently learning Java, C#, Python, MySQL...
 
 # Contact
 
