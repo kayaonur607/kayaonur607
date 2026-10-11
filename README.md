@@ -2,12 +2,7 @@
 
 ---
 
-**Independent iOS developer from Türkiye.**
-
-I design and build native apps on my own, end to end. I work with Swift and SwiftUI on the client side and with Firebase, TypeScript and Node.js on the backend. I'm open to collaborations and new projects.
-
-- 🌍 Based in Türkiye
-- 🛠️ Swift · SwiftUI · Firebase · TypeScript · Node.js
+- 🌍 Kahramnanmaraş, Türkiye
 - ✉️ Contact: [kayaonur607@gmail.com](mailto:kayaonur607@gmail.com)
 
 ### Social:
