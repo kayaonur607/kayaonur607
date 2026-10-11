@@ -1,6 +1,6 @@
 # Hi 👋, I'm Onur
 
-** Independent developer from Türkiye.**
+Independent developer from Türkiye.
 ---
 
 - 🌍 Kahramnanmaraş, Türkiye
