@@ -1,9 +1,13 @@
 # Hi 👋, I'm Onur
 
-Independent developer from Türkiye.
 ---
 
-- 🌍 Kahramnanmaraş, Türkiye
+**Independent developer from Türkiye.**
+
+I build software on my own, from the first idea to the finished product. I care about clean design, reliable code and making things simple for the people who use them. I'm always open to new ideas, collaborations and interesting projects.
+
+- 🌍 Based in Türkiye
+- 💡 Always learning and building something new
 - ✉️ Contact: [kayaonur607@gmail.com](mailto:kayaonur607@gmail.com)
 
 ### Social:
