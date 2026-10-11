@@ -2,12 +2,11 @@
 
 ---
 
-**Independent iOS developer from Türkiye, building native apps with SwiftUI and cloud backends.**
+**Independent iOS developer from Türkiye.**
 
-I design, build and ship my own apps end to end, from the interface and the backend to App Store releases. My main project is [Sismik](https://github.com/kayaonur607/sismik), a real-time earthquake tracking app. It combines data from nine seismological agencies and offers location-based alerts, Live Activities and a free [open data API](https://kayaonur607.github.io/sismik/). I'm open to collaborations, freelance projects and new ideas. You can reach me at [kayaonur607@gmail.com](mailto:kayaonur607@gmail.com).
+I design and build native apps on my own, end to end. I work with Swift and SwiftUI on the client side and with Firebase, TypeScript and Node.js on the backend. I'm open to collaborations and new projects.
 
 - 🌍 Based in Türkiye
-- 📱 My apps on the [App Store](https://apps.apple.com/tr/developer/onur-kaya/id6778129854)
 - 🛠️ Swift · SwiftUI · Firebase · TypeScript · Node.js
 - ✉️ Contact: [kayaonur607@gmail.com](mailto:kayaonur607@gmail.com)
 
